@@ -1,4 +1,3 @@
-require 'byebug'
 class Allergies
 attr_accessor :sum, :allergy_list
   def initialize(sum)
